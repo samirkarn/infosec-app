@@ -1,0 +1,62 @@
+.welcome-heading {
+    margin-top: 400px;
+    margin-left: -105px;
+    width: 231px;
+    height: 33px;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 1;
+}
+
+.paragraph {
+    margin-top: -10px;
+    margin-left: -100px;
+    width: 232px;
+    height: 48px;
+    text-align: left;
+    letter-spacing: 0px;
+    font-family: 'rubik', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px;
+    color: #1D2226;
+    opacity: 0.6;
+}
+
+.btn-create {
+    display: flex;
+    margin-top: 10px;
+    width: 335px;
+    height: 46px;
+    color: #fff;
+    background: #6C25FF 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    font-family: 'rubik', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-sign-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 335px;
+    height: 46px;
+    background: #6C25FF4B 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    font-family: 'rubik', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+}
